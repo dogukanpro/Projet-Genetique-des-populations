@@ -1,0 +1,12 @@
+# Script de test - Jour 1
+adn = "ATGCGATCGTAGCTAGCTAGCTAGCTA"
+
+# Calcul de la teneur en GC (très important en bio)
+g = adn.count("G")
+c = adn.count("C")
+teneur_gc = (g + c) / len(adn) * 100
+
+print("--- ANALYSE ADN ---")
+print(f"Séquence : {adn}")
+print(f"Taille : {len(adn)} bases")
+print(f"Teneur en GC : {teneur_gc:.2%}")

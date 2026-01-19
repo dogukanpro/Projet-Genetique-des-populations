@@ -1,0 +1,12 @@
+from collections import Counter
+
+# Une séquence d'ADN imaginaire
+adn = "ATGC" * 10 + "TTTTT"
+
+# On compte tout d'un coup
+resultat = Counter(adn)
+
+print("--- Rapport d'analyse ---")
+print(f"Séquence totale : {adn}")
+print(f"Compte précis : {resultat}")
+print(f"Nombre de Thymines (T) : {resultat['T']}")
