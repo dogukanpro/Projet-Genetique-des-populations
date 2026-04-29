@@ -18,9 +18,11 @@ Biologie et Neurosciences : 216 heures de cours sur le fonctionnement du vivant 
 Recherche : Réalisation d'un Travail d'Études et de Recherche (TER), démontrant ma capacité à mener un protocole scientifique.
 
 Remise à niveau Mathématiques : Grace à ma licence d'informatique, j'ai consacré la saison 2024/2025 mais surtout 2025/2026 à une remise à niveau complète (niveau Bac S + L1S1 Maths).
+
 Egalement apprentissage du langage java au cours de mon cursus en informatique, situé à un niveau de difficulté et de structure intermédiaire entre le Python et le C, Java constitue une base idéale qui facilite aujourd'hui mon adaptation et apprentissage rapide à de nouveaux langages, ce qui ma notamment aidé pour le Python pour ce cursus d'auto-formation.
 
 Programme des 8 Mois (Saison 2025/2026)
+
 Mois 1 : Fondamentaux de la Biologie Moléculaire
 Contenu : Étude de la cellule (procaryote/eucaryote), des mécanismes de réplication et du dogme central (transcription et traduction).
 Python : Développement d'algorithmes de conversion de séquences nucléotidiques.
@@ -57,6 +59,7 @@ Langage : Python 3
 
 
 Références bibliographiques (Format APA)
+
 Campbell, N. A., & Reece, J. B. Biologie. Pearson.
 
 Deléage, G. Bioinformatique : Cours et cas pratiques. Dunod.
