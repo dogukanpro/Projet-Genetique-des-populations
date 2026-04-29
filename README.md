@@ -1,7 +1,7 @@
 # Anthropologie-Genetique-Projet
 "La Psychologie pour comprendre le présent, l'Informatique pour comprendre le futur et la Biologie pour comprendre le passé !"
 
---------------------------------------Ce qui me ramène à l'Anthropologie Génétique !------------------------------------------
+--------------------------------------Ce qui me ramène à l'Anthropologie Génétique !---------------------------------------
 
 Mon objectif principal est de comprendre les origines des humains, le métissage entre populations, comprendre quelle population descend de quel peuple, à hauteur de quel pourcentage, et ce pour toute la terre. Plus particulièrement, comprendre la biologie moléculaire (les gènes) pour entrevoir quel gène est responsable de l'adaptation d'une population à son environnement et donc sa différence et son unicité par rapport aux autres, mais également les points communs via la quantification des processus de métissage. Tout cela en m'aidant des compétences en bio-informatique.
 
